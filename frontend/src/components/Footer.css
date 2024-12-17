@@ -1,0 +1,116 @@
+/* Footer main styles */
+.footer {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Containing the whole footer */
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Logo styling */
+  .footer-logo img {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  
+  /* Links section styling */
+  .footer-links {
+    margin: 20px 0;
+  }
+  
+  .footer-links a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer-links a:hover {
+    color: #00bfff;
+  }
+  
+  /* Social icons styling */
+  .footer-socials a {
+    color: #fff;
+    margin: 0 15px;
+    font-size: 25px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer-socials a:hover {
+    color: #00bfff;
+  }
+  
+  /* Newsletter section styling */
+  .footer-newsletter {
+    margin: 30px 0;
+  }
+  
+  .footer-newsletter h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .footer-newsletter form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .footer-newsletter input {
+    padding: 10px;
+    font-size: 16px;
+    width: 250px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .footer-newsletter button {
+    padding: 10px 20px;
+    background-color: #00bfff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .footer-newsletter button:hover {
+    background-color: #005f73;
+  }
+  
+  /* Footer bottom styling */
+  .footer-bottom {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #bbb;
+  }
+  
+  /* Footer animations */
+  .footer:hover {
+    background-color: #333;
+    transition: background-color 0.3s ease;
+  }
+  
+  
+  
+  
+  
