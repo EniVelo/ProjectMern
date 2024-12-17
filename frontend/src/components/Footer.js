@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-logo">
-          <img src="http://localhost:5000/images/logo.jpeg" alt="🏠" />
+          <img src="" alt="🏠" />
         </div>
 
         <div className="footer-links">
